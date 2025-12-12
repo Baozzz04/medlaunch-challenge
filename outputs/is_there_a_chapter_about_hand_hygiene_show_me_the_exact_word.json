@@ -1,0 +1,29 @@
+{
+  "query": "Is there a chapter about hand hygiene? Show me the exact wording",
+  "query_type": "question",
+  "answer": "Based on the provided context, there is no specific chapter about hand hygiene in the excerpts shared. While the context includes detailed information about infection prevention and control (in Chapter IC.3), there is no dedicated chapter or section specifically addressing hand hygiene in the provided text.\n\nThe closest related content is in Chapter IC.3, which discusses infection prevention and control responsibilities, but it does not explicitly mention hand hygiene procedures or protocols. If you would like to see the specific details about hand hygiene, additional context or chapters would need to be provided.",
+  "citations": [
+    {
+      "chunk_id": "104",
+      "document": "NIAHO Standards",
+      "section": "DIET MANUAL",
+      "chapter": "DS.3",
+      "relevance_score": 0.4667
+    },
+    {
+      "chunk_id": "137",
+      "document": "NIAHO Standards",
+      "section": "SAFETY MANAGEMENT SYSTEM",
+      "chapter": "PE.3",
+      "relevance_score": 0.463
+    },
+    {
+      "chunk_id": "115",
+      "document": "NIAHO Standards",
+      "section": "LEADERSHIP RESPONSIBILITIES (Part 1) (Part 1)",
+      "chapter": "IC.3",
+      "relevance_score": 0.458
+    }
+  ],
+  "confidence": "medium"
+}

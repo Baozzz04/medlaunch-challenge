@@ -1,0 +1,29 @@
+{
+  "query": "Explain the patient rights and responsibilities outlined in the standards",
+  "query_type": "question",
+  "answer": "Based on the NIAHO Standards, patient rights and responsibilities are comprehensively outlined across multiple chapters, particularly in PR.2 (Specific Rights) and RR.2 (Notice of Rights and Services). Here's a detailed explanation:\n\nPatient Rights Include:\n\n1. Right to Information and Informed Decisions\n- According to PR.2 (SR.2 and SR.3), patients have the right to:\n  - Participate in their care planning\n  - Be informed of their health status, diagnosis, and prognosis\n  - Make informed decisions about treatment\n  - Request or refuse treatment (with limitations on medically unnecessary treatments)\n\n2. Communication and Language Rights\n- As per PR.4, organizations must:\n  - Provide interpretation services for non-English speakers\n  - Offer alternative communication aids for deaf, blind, or impaired patients\n  - Communicate in a language/format the patient understands\n\n3. Privacy and Confidentiality Rights\n- According to PR.2 (SR.5 and SR.8), patients have:\n  - Right to personal privacy during medical treatments and personal hygiene\n  - Confidentiality of clinical records\n  - Limited disclosure of personal information\n\n4. Access to Medical Records\n- PR.2 (SR.9) guarantees patients the right to:\n  - Access their medical records upon request\n  - Receive records in requested format\n  - Obtain records within a reasonable timeframe\n\n5. Visitation Rights\n- PR.2 (SR.12) ensures patients can:\n  - Receive visitors of their choice\n  - Have visitation not restricted based on race, color, sexual orientation, etc.\n  - Withdraw visitation consent at any time\n\n6. Protection from Abuse\n- PR.2 specifies patients have the right to be free from:\n  - All forms of abuse\n  - Harassment\n  - Neglect\n\n7. Consent for Procedures\n- PR.5 outlines that patients have the right to:\n  - Receive informed consent discussions\n  - Understand risks, benefits, and alternatives\n  - Give or withhold consent for procedures\n\nPatient Responsibilities:\nWhile the provided context doesn't explicitly list patient responsibilities, RR.2 (SR.1) mentions that facilities should inform residents of \"rules and regulations governing resident conduct and responsibilities.\"\n\nKey Principles:\n- Information must be provided in understandable language\n- Patient autonomy and informed decision-making are paramount\n- Organizations must actively protect and promote patient rights\n\nSurveyor Guidance emphasizes verifying that these rights are effectively communicated and implemented throughout the healthcare organization.",
+  "citations": [
+    {
+      "chunk_id": "160",
+      "document": "NIAHO Standards",
+      "section": "NOTICE OF RIGHTS AND SERVICES",
+      "chapter": "RR.2",
+      "relevance_score": 0.7244
+    },
+    {
+      "chunk_id": "106",
+      "document": "NIAHO Standards",
+      "section": "SPECIFIC RIGHTS (Part 1) (Part 1)",
+      "chapter": "PR.2",
+      "relevance_score": 0.7221
+    },
+    {
+      "chunk_id": "108",
+      "document": "NIAHO Standards",
+      "section": "LANGUAGE AND COMMUNICATION",
+      "chapter": "PR.4",
+      "relevance_score": 0.7138
+    }
+  ],
+  "confidence": "medium"
+}

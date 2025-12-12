@@ -1,0 +1,29 @@
+{
+  "query": "Chapters related to patient safety",
+  "query_type": "question",
+  "answer": "Based on the provided context, there are two key chapters related to patient safety:\n\n1. QM.8 - Patient Safety System\nThis chapter provides comprehensive guidelines for establishing a patient safety system. According to QM.8, the organization shall:\n- Have a means for identifying and detecting incidents impacting patient safety (SR.1)\n- Develop a documented patient safety system that includes:\n  - Detection, reporting, investigation of medical errors and adverse events\n  - Data aggregation and trending\n  - Implementation of preventative and corrective actions\n  - Risk reduction processes\n  - Ongoing measurement of action effectiveness\n  - Feedback and learning throughout the hospital\n  - Policy for informing patients about unexpected adverse events (SR.2)\n\n2. PR.10 - Care in a Safe Setting: Patients at Risk of Harm to Self or Others\nThis chapter focuses specifically on patient safety for patients at risk of self-harm or harming others. Key requirements include:\n- Screening and assessing patient risks\n- Implementing appropriate safety precautions\n- Providing staff education and training on identifying and mitigating patient safety risks\n- Conducting environmental ligature and safety risk assessments\n\nBoth chapters emphasize the importance of:\n- Systematic identification of risks\n- Implementing preventive and corrective actions\n- Ongoing monitoring and evaluation\n- Staff education and training\n\nThese chapters work together to create a comprehensive approach to patient safety across different contexts and patient populations.",
+  "citations": [
+    {
+      "chunk_id": "010",
+      "document": "NIAHO Standards",
+      "section": "PATIENT SAFETY SYSTEM",
+      "chapter": "QM.8",
+      "relevance_score": 0.6608
+    },
+    {
+      "chunk_id": "113",
+      "document": "NIAHO Standards",
+      "section": "CARE IN A SAFE SETTING: PATIENTS AT RISK OF HARM TO SELF OR OTHERS (Part 1) (Part 1)",
+      "chapter": "PR.10",
+      "relevance_score": 0.6314
+    },
+    {
+      "chunk_id": "002",
+      "document": "NIAHO Standards",
+      "section": "UNIFIED AND INTEGRATED INFECTION PREVENTION AND CONTROL AND ANTIBIOTIC STEWARDSHIP PROGRAMS",
+      "chapter": "IC.4",
+      "relevance_score": 0.5936
+    }
+  ],
+  "confidence": "medium"
+}

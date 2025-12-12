@@ -1,0 +1,29 @@
+{
+  "query": "How should hospitals handle medication errors?",
+  "query_type": "question",
+  "answer": "Based on the NIAHO Standards, hospitals should handle medication errors through a comprehensive, systematic approach:\n\n1. Reporting and Immediate Action\nAccording to MM.6 (SR.2 and SR.3), hospitals must:\n- Develop procedures for reporting transfusion reactions, adverse drug reactions, and medication errors\n- Immediately report drug preparation, administration, and prescribing errors to the attending physician\n- Track and analyze all medication-related errors to determine their causes\n\n2. Patient Safety System\nAs outlined in QM.8 (SR.2), the organization's patient safety system for medication errors should include:\n- Detection, reporting, investigation, and response to medical errors\n- Aggregation, trending, and analysis of error data\n- Implementation of preventative and corrective actions\n- Defined processes to reduce risk\n- Ongoing measurement of action effectiveness\n- Feedback and learning throughout the hospital\n- Policy for informing patients/families about unexpected adverse events\n\n3. Analysis and Improvement\nThe hospital should:\n- Use a systematic approach to determine the root cause of errors (QM.8 Interpretive Guidelines)\n- Develop and implement preventive actions such as:\n  * Changes in policies and procedures\n  * Staff education and training\n  * Equipment repairs or replacements\n\n4. Reporting Culture\nThe standards emphasize adopting a non-punitive reporting system focused on system improvement rather than individual blame (MM.6 Interpretive Guidelines).\n\n5. Continuous Evaluation\nHospitals must periodically:\n- Collect data on medication errors\n- Analyze the effectiveness of implemented changes\n- Ensure improvements are sustained over time\n\nImportantly, not every medical error results in patient harm, and near misses should also be tracked and analyzed to identify potential system weaknesses.",
+  "citations": [
+    {
+      "chunk_id": "048",
+      "document": "NIAHO Standards",
+      "section": "OVERSIGHT GROUP",
+      "chapter": "MM.6",
+      "relevance_score": 0.6115
+    },
+    {
+      "chunk_id": "010",
+      "document": "NIAHO Standards",
+      "section": "PATIENT SAFETY SYSTEM",
+      "chapter": "QM.8",
+      "relevance_score": 0.552
+    },
+    {
+      "chunk_id": "043",
+      "document": "NIAHO Standards",
+      "section": "MANAGEMENT PRACTICES (Part 1) (Part 1)",
+      "chapter": "MM.1",
+      "relevance_score": 0.524
+    }
+  ],
+  "confidence": "medium"
+}

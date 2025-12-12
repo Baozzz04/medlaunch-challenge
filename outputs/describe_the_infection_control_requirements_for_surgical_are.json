@@ -1,0 +1,29 @@
+{
+  "query": "Describe the infection control requirements for surgical areas",
+  "query_type": "question",
+  "answer": "Based on the provided context, here are the infection control requirements for surgical areas:\n\n1. Organizational Standards (Chapter SS.1):\nAccording to SS.1 SR.4, the organization must develop and implement policies and procedures for surgical services that include:\n- Aseptic surveillance and practice, including scrub techniques\n- Identification of infected and non-infected cases\n- Housekeeping requirements/procedures\n- Sterilization and high-level disinfection procedures\n- Handling infectious and biomedical/medical waste\n- Safety practices (e.g., fire safety, site marking, time-outs)\n- Acceptable operating room attire\n\n2. Infection Prevention Leadership (Chapter IC.3):\nThe infection preventionist(s) are responsible for:\n- Developing organization-wide infection surveillance, prevention, and control policies that adhere to nationally recognized guidelines\n- Preventing and controlling healthcare-acquired infections\n- Auditing adherence to infection prevention and control policies\n- Providing competency-based training to staff on infection prevention practices\n\n3. Specific Surgical Area Requirements:\n- Surgical services must be organized in accordance with nationally recognized standards from organizations like AORN, CDC, APIC, and others\n- Operating room access should be limited to authorized personnel\n- Surgical attire must provide maximum skin and hair coverage\n- Sterilization equipment must be monitored, inspected, tested, and maintained\n- Sterilized materials must be properly packaged, labeled, and stored in a controlled environment\n\nThese requirements aim to ensure patient safety, prevent infections, and maintain high standards of surgical care.",
+  "citations": [
+    {
+      "chunk_id": "052",
+      "document": "NIAHO Standards",
+      "section": "ORGANIZATION",
+      "chapter": "SS.1",
+      "relevance_score": 0.6617
+    },
+    {
+      "chunk_id": "137",
+      "document": "NIAHO Standards",
+      "section": "SAFETY MANAGEMENT SYSTEM",
+      "chapter": "PE.3",
+      "relevance_score": 0.6297
+    },
+    {
+      "chunk_id": "115",
+      "document": "NIAHO Standards",
+      "section": "LEADERSHIP RESPONSIBILITIES (Part 1) (Part 1)",
+      "chapter": "IC.3",
+      "relevance_score": 0.6159
+    }
+  ],
+  "confidence": "medium"
+}

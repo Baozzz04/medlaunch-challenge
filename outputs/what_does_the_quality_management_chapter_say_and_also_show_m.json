@@ -1,0 +1,29 @@
+{
+  "query": "What does the quality management chapter say and also show me the exact text",
+  "query_type": "question",
+  "answer": "Based on the provided context, here's a comprehensive overview of what the quality management chapter says:\n\nThe Quality Management System (QMS) is a critical component of hospital operations, with several key requirements:\n\n1. Responsibility and Accountability (QM.1):\n- The governing body, medical staff, and administrative officials are responsible for:\n  a) Developing and maintaining a hospital-wide, data-driven quality management system\n  b) Establishing clear safety expectations\n  c) Allocating adequate resources for performance improvement\n  d) Implementing corrective and preventive actions\n  e) Selecting and conducting performance improvement projects annually\n\n2. Quality Management System Requirements (QM.6):\n- Must include an interdisciplinary group to oversee quality performance\n- Incorporate a Quality Assessment and Performance Improvement (QAPI) program\n- Define and document the QMS, including:\n  a) Quality policy statement\n  b) Measurable organizational quality objectives\n  c) Coverage of all hospital locations and services\n\nKey Characteristics of the QMS:\n- Proactively improves patient outcomes and prevents medical errors\n- Continuously studies and improves processes\n- Identifies problematic events and takes sustainable actions\n- Collects and analyzes quality indicators\n- Focuses on improving patient care and safety\n\nSpecific Requirements:\n- The QMS shall manage and improve:\n  a) Performance\n  b) Patient safety\n  c) Overall quality of patient care and operations\n\nThe exact text from QM.1 (SR.1a) states the QMS shall \"manage and improve performance, patient safety, and overall quality of patient care and operations.\"\n\nThe system is expected to be comprehensive, data-driven, and adaptable to the hospital's specific size, complexity, and service scope.",
+  "citations": [
+    {
+      "chunk_id": "008",
+      "document": "NIAHO Standards",
+      "section": "QUALITY MANAGEMENT SYSTEM REQUIREMENTS",
+      "chapter": "QM.6",
+      "relevance_score": 0.5791
+    },
+    {
+      "chunk_id": "003",
+      "document": "NIAHO Standards",
+      "section": "RESPONSIBILITY AND ACCOUNTABILITY (Part 1) (Part 1)",
+      "chapter": "QM.1",
+      "relevance_score": 0.5467
+    },
+    {
+      "chunk_id": "037",
+      "document": "NIAHO Standards",
+      "section": "PROFESSIONAL SCOPE",
+      "chapter": "SM.2",
+      "relevance_score": 0.5417
+    }
+  ],
+  "confidence": "medium"
+}

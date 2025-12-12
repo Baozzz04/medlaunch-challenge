@@ -1,0 +1,29 @@
+{
+  "query": "What are the requirements for quality improvement programs?",
+  "query_type": "question",
+  "answer": "Based on the provided NIAHO Standards context, here are the key requirements for quality improvement programs:\n\n1. Organizational Responsibility (QM.1):\n- The governing body, medical staff, and administrative officials are responsible for developing, implementing, and maintaining a hospital-wide, data-driven quality management system (QMS)\n- The QMS must:\n  a) Manage and improve performance, patient safety, and overall quality of patient care\n  b) Establish clear safety expectations hospital-wide\n  c) Allocate adequate resources for measuring, assessing, and improving hospital performance\n  d) Implement and monitor corrective and preventive actions\n\n2. Performance Improvement Projects (QM.1):\n- Conduct annual projects that:\n  a) Focus on various organizational processes, functions, and areas\n  b) Are proportional to the hospital's scope and complexity\n  c) Can include developing information technology systems to improve patient safety\n  d) Must be documented with rationale for selection and measurable progress\n\n3. Interdisciplinary Oversight (QM.6):\n- Establish an interdisciplinary group to oversee quality performance, including representatives from:\n  - Senior Leadership\n  - Medical Staff\n  - Nursing\n  - Quality/Risk Management\n  - Physical Environment/Safety\n  - Pharmacy Services\n  - Ancillary Services\n  - Support Services\n  - Clinical Services\n  - Outpatient Services (as needed)\n\n4. Program Characteristics (QM.6 Interpretive Guidelines):\n- Cover all hospital locations and services\n- Systematically examine care quality\n- Implement specific improvement projects\n- Take a proactive approach to improving patient outcomes\n- Prevent medical errors\n- Continuously collect and analyze quality indicators\n- Take corrective actions to remedy problematic processes\n\n5. Documentation Requirements:\n- Define quality policy and measurable organizational quality objectives\n- Document the QMS methodology\n- Maintain records of performance improvement projects\n- Provide evidence of baseline data and project outcomes\n\nThe program should be comprehensive, data-driven, and focused on continuous improvement of patient care and safety.",
+  "citations": [
+    {
+      "chunk_id": "003",
+      "document": "NIAHO Standards",
+      "section": "RESPONSIBILITY AND ACCOUNTABILITY (Part 1) (Part 1)",
+      "chapter": "QM.1",
+      "relevance_score": 0.6876
+    },
+    {
+      "chunk_id": "008",
+      "document": "NIAHO Standards",
+      "section": "QUALITY MANAGEMENT SYSTEM REQUIREMENTS",
+      "chapter": "QM.6",
+      "relevance_score": 0.6504
+    },
+    {
+      "chunk_id": "005",
+      "document": "NIAHO Standards",
+      "section": "QUALITY OUTLINE/PLAN",
+      "chapter": "QM.3",
+      "relevance_score": 0.6441
+    }
+  ],
+  "confidence": "medium"
+}

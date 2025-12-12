@@ -1,0 +1,29 @@
+{
+  "query": "What are the staff competency assessment requirements?",
+  "query_type": "question",
+  "answer": "Based on Chapter SM.7 - COMPETENCY ASSESSMENT AND PERFORMANCE APPRAISAL, here are the key staff competency assessment requirements:\n\n1. Timing of Assessments:\n- Initial competency assessment is required\n- Ongoing assessments must be performed as defined by organization policy (SR.2)\n\n2. Assessment Content:\n- Must evaluate current key competencies necessary for the job position (SR.2a)\n- Additional focus areas can include:\n  a) Variations in processes identified through outcomes measurement\n  b) High-risk, low volume procedures\n  c) New technology/equipment/processes\n  d) Customer satisfaction feedback\n  e) Training session outcomes\n  f) Staff learning needs assessments\n  g) Staff and medical staff feedback\n  h) Federal or state law requirements (SR.2b)\n\n3. Performance Data Aggregation:\n- The organization shall aggregate objective performance data from sources like:\n  - Individual evaluations\n  - Incident reports\n  - Risk management\n  - Staff and patient feedback\n  - Data analysis (SR.4)\n\n4. Follow-up Requirements:\n- After interventions, there must be a reassessment of objective data (SR.4a)\n- Aggregated performance data must be reported to Quality Management Oversight (SR.4b)\n\n5. Contract Staff Considerations:\n- Competency assessment processes for contract staff may be modified based on organizational outcomes and service frequency (SR.3)\n\nThe Interpretive Guidelines emphasize that competency assessment evaluates the technical knowledge and capability of staff to perform job duties safely and effectively.",
+  "citations": [
+    {
+      "chunk_id": "042",
+      "document": "NIAHO Standards",
+      "section": "COMPETENCY ASSESSMENT AND PERFORMANCE APPRAISAL",
+      "chapter": "SM.7",
+      "relevance_score": 0.6711
+    },
+    {
+      "chunk_id": "091",
+      "document": "NIAHO Standards",
+      "section": "MANAGEMENT AND SUPPORT",
+      "chapter": "RS.2",
+      "relevance_score": 0.5752
+    },
+    {
+      "chunk_id": "040",
+      "document": "NIAHO Standards",
+      "section": "JOB DESCRIPTION",
+      "chapter": "SM.5",
+      "relevance_score": 0.5689
+    }
+  ],
+  "confidence": "medium"
+}

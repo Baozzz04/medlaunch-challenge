@@ -1,0 +1,9 @@
+# AWS RAG Pipeline - Lambda Dependencies
+# Install these in your Lambda deployment package
+
+# AWS SDK (usually pre-installed in Lambda)
+boto3>=1.34.0
+
+# PDF Processing (for pdf_processor.py)
+PyMuPDF>=1.23.0
+

@@ -1,13 +1,23 @@
 #!/bin/bash
 # Simple query script - saves JSON to results/ folder
 # Usage: ./query.sh "your query here"
+# Environment variables:
+#   BUCKET_NAME - S3 bucket name (default: set your bucket name)
+#   AWS_REGION - AWS region (default: us-east-1)
 
-BUCKET="rag-pipeline-niah-bucket-us-east-1"
-REGION="us-east-1"
+BUCKET="${BUCKET_NAME:-YOUR-BUCKET-NAME-HERE}"
+REGION="${AWS_REGION:-us-east-1}"
 QUERY="$1"
 
 if [ -z "$QUERY" ]; then
     echo "Usage: $0 'your query here'"
+    exit 1
+fi
+
+if [ "$BUCKET" = "YOUR-BUCKET-NAME-HERE" ]; then
+    echo "Error: BUCKET_NAME environment variable not set or bucket name not configured"
+    echo "Please set BUCKET_NAME environment variable or edit this script"
+    echo "Example: export BUCKET_NAME=rag-pipeline-niah-bucket-us-east-1"
     exit 1
 fi
 
